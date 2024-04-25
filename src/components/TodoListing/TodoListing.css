@@ -1,0 +1,66 @@
+.container-todolisting{
+    display:inline;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+button{
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    font-size: 20px;
+    
+}
+.button-delete{
+    margin: 10px;
+    background-color: rgba(201, 98, 98, 0.664);
+    color: rgb(255, 255, 255);
+}
+.button-edit{
+    margin: 10px;
+    background-color: rgba(201, 98, 98, 0.664);
+    color: rgb(255, 255, 255);
+}
+.item-row{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 15px;
+    border:none;
+    background-color: rgba(232, 240, 250, 0.534);
+    margin: 40px 10px 10px 10px; 
+    padding: 20px;
+}
+.button-save{
+    margin-left: 10px;
+    /* margin-left: 10px; */
+    background: rgba(40, 184, 40, 0.863) ;
+    color: rgb(255, 255, 255);
+
+
+}
+.button-close{
+    /* margin:px */
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    background:rgba(235, 127, 127, 0.815);
+}
+.container-modal{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title-modal{
+    /* display: flex; */
+    /* font */
+    font-size: 20px;
+}
+.input-modal{
+    box-shadow: 0px -0.5px 10px dimgrey;
+    /* border: 1px solid; */
+    margin-bottom:0px;
+    padding: 11px;
+}

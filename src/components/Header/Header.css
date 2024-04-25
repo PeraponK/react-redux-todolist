@@ -1,0 +1,9 @@
+.todolist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(164, 209, 248);
+    color:whitesmoke;
+    font-size: 40px;
+}

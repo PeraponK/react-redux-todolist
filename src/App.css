@@ -1,0 +1,12 @@
+*{
+  margin:0px;
+  padding:0px;
+  font-family:monospace;
+}
+.container-list-listing{
+  border: none;
+  background-color: rgba(180, 201, 223, 0.705);
+  padding: 15px;
+  margin: 50px;
+  border-radius: 10px;
+}

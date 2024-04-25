@@ -1,0 +1,22 @@
+.add-button{
+    border-radius: 5px;
+    padding :10px;
+    border :none;
+    background-color: rgba(72, 116, 238, 0.781);
+    color: azure;
+}
+
+input{
+    margin-left: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    box-shadow: 0px 0px 5px 1px rgba(4, 151, 209, 0.753);
+}
+
+.container{
+    margin: 20px;
+    justify-content:center;
+    display: flex;
+    
+}
